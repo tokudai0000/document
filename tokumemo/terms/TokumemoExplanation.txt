@@ -27,14 +27,14 @@
 
 ・ご利用規約
 トクメモを利用する上での注意する点について
-詳しくは：https://github.com/akidon0000/univIP/blob/main/terms/TermsOfService.txt
+詳しくは：https://github.com/tokudai0000/document/blob/main/tokumemo/terms/TermsOfService.txt
 
 
 ・プライバシーポリシー
 パスワード保存、使用方法等について
-詳しくは：https://github.com/akidon0000/univIP/blob/main/terms/PrivacyPolicy.txt
+詳しくは：https://github.com/tokudai0000/document/blob/main/tokumemo/terms/PrivacyPolicy.txt
 
 
 [お問い合わせ]
-Eメールアドレス: tokumemo1@gmail.com
+Eメールアドレス: tokumemo0000@gmail.com
 トクメモTwitter: @tokumemo0000
